@@ -1,2 +1,2 @@
 # test_case_design_skill
-This skill should be used when generating test cases, writing test cases, designing test cases
+This skill should be used when generating test cases, writing test cases, designing test cases, supplementing exception scenarios and boundary values, designing complex interaction test cases, outputting standardized test cases, compatibility testing, adaptation testing, API testing, security testing, UI visual testing, mobile/App/mini-program/H5/desktop/PC Web testing, linkage testing, or routing testing. Only focuses on writing test cases, does not involve test plans, test strategies, or test automation scripts.
